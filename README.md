@@ -1,0 +1,1 @@
+Welcome to the Ansible for Beginners repository! This repository is designed for people who are just starting their careers in IT, DevOps, or software development and want to learn how to automate tasks using Ansible. Ansible is a powerful, beginner-friendly tool for automation, and this repository will help you take your first steps with simple, easy-to-follow resources.
